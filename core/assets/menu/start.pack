@@ -1,0 +1,12 @@
+
+start.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+start
+  rotate: false
+  xy: 1, 1
+  size: 800, 100
+  orig: 800, 100
+  offset: 0, 0
+  index: -1
